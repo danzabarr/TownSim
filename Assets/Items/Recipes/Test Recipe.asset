@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5149d21221c41841b23639ccd347112, type: 3}
+  m_Name: Test Recipe
+  m_EditorClassIdentifier: 
+  duration: 10.85
+  i_00: {fileID: 11400000, guid: c8d29ca0cf05a904388c592b88b61b20, type: 2}
+  i_10: {fileID: 11400000, guid: c8d29ca0cf05a904388c592b88b61b20, type: 2}
+  i_20: {fileID: 0}
+  i_01: {fileID: 0}
+  i_11: {fileID: 11400000, guid: ebfe78c3baf722346a66b5a20b07b27b, type: 2}
+  i_21: {fileID: 11400000, guid: ebfe78c3baf722346a66b5a20b07b27b, type: 2}
+  i_02: {fileID: 0}
+  i_12: {fileID: 0}
+  i_22: {fileID: 0}
+  q_00: 5
+  q_10: 1
+  q_20: 0
+  q_01: 0
+  q_11: 10
+  q_21: 1
+  q_02: 0
+  q_12: 0
+  q_22: 0

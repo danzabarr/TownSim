@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eaf90cc24943aad449b2cf215826deb1, type: 3}
+  m_Name: Test Item
+  m_EditorClassIdentifier: 
+  description: Test item, please ignore.
+  prefab: {fileID: 7215509614585537586, guid: 8abd3f0f750775b4399454feed714345, type: 3}
+  maxStack: 10
+  splittable: 1
+  icon: {fileID: 1447525290911393079, guid: 5a47e086e23d9be43b00779faf67ec45, type: 3}
+  mode: 0
+  boneName: 
+  meshName: 
